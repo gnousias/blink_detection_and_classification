@@ -18,7 +18,7 @@ In the main script, two .mat files are loaded. Those contain a pretrained instan
 After loading the two neural networks, a sample image (see in sample_images folder) is read
 > sampleImg = imread('sample_img');
 
-![Sample Image](sample_images/demo_img.png)
+![Sample Image](sources/demo_img.png)
 
 and then is resized to have the right dimensions, as the input layer of the arcitecture requires.
 Then, the resized image is 'fed' in each neural network, seperately. The predictions occur using:
