@@ -15,10 +15,10 @@ and that the following paper is referenced:
 A short demo is provided where a sample image (close distance face image) is used to segment each area of eye in two categories, iris and sclera (also known as eyelids).
 In the main script, two .mat files are loaded. Those contain a pretrained instance of DeepLabv3+ neural network, each one for each category (iris and eyelids).
 
-![Sample Image](sample_images/sample_img.png)
-
 After loading the two neural networks, a sample image (see in sample_images folder) is read
 > sampleImg = imread('sample_img');
+
+![Sample Image](sample_images/sample_img.png)
 
 and the initial image is resized to have the right dimensions, as input layer requires.
 Then, the resized image is 'fed' in each neural network, seperately. The predictions occur using:
