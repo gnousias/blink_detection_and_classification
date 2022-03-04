@@ -1,1 +1,1 @@
-# Blink-detection-and-classification
+# Blink detection and classification
