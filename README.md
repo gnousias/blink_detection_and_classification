@@ -13,7 +13,7 @@ and that the following paper is referenced:
 > G. Nousias, E. -K. Panagiotopoulou, K. Delibasis, A. M. Chaliasou, A. Tzounakou and G. Labiris, "Video-based eye blink identification and classification," in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2022.3153407.
 
 A short demo is provided where a sample image (close distance face image) is used to segment each area of eye in two categories, iris and sclera (also known as eyelids).
-In the main script, two .mat files are loaded. Those contain a pretrained instance of DeepLabv3+ neural network, each one for each category (iris and eyelids).
+In the [main](code/main.m) script, two .mat files are loaded. Those contain a pretrained instance of DeepLabv3+ neural network, each one for each category (iris and eyelids).
 
 After loading the two neural networks, a sample image (see in sample_images folder) is read
 > sampleImg = imread('sample_img');
