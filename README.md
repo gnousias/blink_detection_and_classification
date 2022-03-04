@@ -21,7 +21,8 @@ After loading the two neural networks, a sample image (see in sample_images fold
 ![Sample Image](sources/demo_img.png)
 
 and then is resized to have the right dimensions, as the input layer of the arcitecture requires.
-Then, the resized image is 'fed' in each neural network, seperately. The predictions occur using:
+Then, the resized image is 'fed' in each neural network, seperately. The predictions occur using a self-build function [predictImg](code/predictImg.m) that utilizes
+the following built-in function:
 >binaryImg = semanticseg(resizedImg,trainedNetwork);
 
 The combined result is illustrated in the below image, each result from the iris and eyelid neural network, respectively.
