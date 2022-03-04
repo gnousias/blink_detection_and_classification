@@ -5,7 +5,7 @@ or even with Schizophrenia and Parkinson disease.
 This repository aims to introduce and make public a recent proposed methodology for blink detection and classification. For more details, see
 this [paper](https://ieeexplore.ieee.org/abstract/document/9721639?casa_token=k2CNVAAC0SMAAAAA:jj4bMR1gsNPYAHqOpnHOWjcae5ihyuBYE20JNBfmSkjyYNpSF-T00WFPvzTNfqbznY3Pkwk3Cw).
 
-The code can be executed in any version of Matlab and Octave and it requires Deep Learning Toolbox.
+The code can be executed in any version of Matlab and Octave, but requires Deep Learning Toolbox.
 
 You are free to use those pretrained neural networks and code for any academic or non-academic purpose, provided that the code is redistributed as is, with the author credentials, 
 and that the following paper is referenced:
@@ -28,3 +28,5 @@ the following built-in function:
 The combined result is illustrated in the below image, each result from the iris and eyelid neural network, respectively.
 
 ![Combined result](sources/finalOutput.png)
+
+The above results are part of [this](https://ieeexplore.ieee.org/abstract/document/9721639?casa_token=k2CNVAAC0SMAAAAA:jj4bMR1gsNPYAHqOpnHOWjcae5ihyuBYE20JNBfmSkjyYNpSF-T00WFPvzTNfqbznY3Pkwk3Cw) publication. For more details, contact anyone of the collaborators of this repo or open an issue.
