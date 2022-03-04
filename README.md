@@ -1,6 +1,6 @@
 # Blink detection and classification
 Blinking or blink patterns have been related with various pathological and neurological diseases, such as Computer Vision Syndrome, Tourette syndrome 
-or even with Schizophrenia and Parkinson disease.
+or even with Schizophrenia and Parkinson disease. 
 
 This repository aims to introduce and make public a recent proposed methodology for blink detection and classification. For more details, see
 this [paper](https://ieeexplore.ieee.org/abstract/document/9721639?casa_token=k2CNVAAC0SMAAAAA:jj4bMR1gsNPYAHqOpnHOWjcae5ihyuBYE20JNBfmSkjyYNpSF-T00WFPvzTNfqbznY3Pkwk3Cw).
