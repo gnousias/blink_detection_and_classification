@@ -30,3 +30,7 @@ The combined result is illustrated in the below image, each result from the iris
 ![Combined result](sources/finalOutput.png)
 
 The above results are part of [this](https://ieeexplore.ieee.org/abstract/document/9721639?casa_token=k2CNVAAC0SMAAAAA:jj4bMR1gsNPYAHqOpnHOWjcae5ihyuBYE20JNBfmSkjyYNpSF-T00WFPvzTNfqbznY3Pkwk3Cw) publication. For more details, contact anyone of the collaborators of this repo or open an issue.
+
+## Results
+A video demo is presented below. At left-bottom corner are counted the number and the type of blinks for each eye.
+![video-demo](sources/segm_trial_video.mp4)
