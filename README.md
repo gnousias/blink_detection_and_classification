@@ -7,7 +7,7 @@ this [paper](https://ieeexplore.ieee.org/abstract/document/9721639?casa_token=k2
 
 The code can be executed in any version of Matlab and Octave and it requires Deep Learning Toolbox.
 
-You are free to use those pretrained neural networks for any academic or non-academic purpose, provided that the code is redistributed as is, with the author credentials, 
+You are free to use those pretrained neural networks and code for any academic or non-academic purpose, provided that the code is redistributed as is, with the author credentials, 
 and that the following paper is referenced:
 
 > G. Nousias, E. -K. Panagiotopoulou, K. Delibasis, A. M. Chaliasou, A. Tzounakou and G. Labiris, "Video-based eye blink identification and classification," in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2022.3153407.
