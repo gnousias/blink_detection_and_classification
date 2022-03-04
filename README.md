@@ -25,3 +25,4 @@ Then, the resized image is 'fed' in each neural network, seperately. The predict
 >binaryImg = semanticseg(resizedImg,trainedNetwork);
 
 The combined result is illustrated in the below image, each result from the iris and eyelid neural network, respectively.
+![Combined result](sources/finalOutput.png)
