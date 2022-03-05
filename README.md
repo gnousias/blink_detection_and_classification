@@ -31,6 +31,3 @@ The combined result is illustrated in the below image, each result from the iris
 
 The above results are part of [this](https://ieeexplore.ieee.org/abstract/document/9721639?casa_token=k2CNVAAC0SMAAAAA:jj4bMR1gsNPYAHqOpnHOWjcae5ihyuBYE20JNBfmSkjyYNpSF-T00WFPvzTNfqbznY3Pkwk3Cw) publication. For more details, contact anyone of the collaborators of this repo or open an issue.
 
-Applying the proposed method to a close-distance face video, occurs:
-
-![sample-video](sources/trial_video.mp4)
