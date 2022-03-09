@@ -32,7 +32,7 @@ The combined result is illustrated in the below image, each result from the iris
 The above results are part of [this](https://ieeexplore.ieee.org/abstract/document/9721639?casa_token=k2CNVAAC0SMAAAAA:jj4bMR1gsNPYAHqOpnHOWjcae5ihyuBYE20JNBfmSkjyYNpSF-T00WFPvzTNfqbznY3Pkwk3Cw) publication. For more details, contact anyone of the collaborators of this repo or open an issue.
 
 ## Results
-A sample video is given below,after applying the methodology of publication. Important details are depicted on each frame (number of complete and incomplete blinks, current
+A sample video is given below, after applying the methodology of publication. Important details are depicted on each frame (number of complete and incomplete blinks, current
 distance of eyelids, known as palpebral fissure, diameter of iris, etc).
 
 https://user-images.githubusercontent.com/94700816/157407879-0d2eacee-1a8a-43ed-89c4-be561290408a.mov
