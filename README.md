@@ -34,4 +34,4 @@ The above results are part of [this](https://ieeexplore.ieee.org/abstract/docume
 ## Results
 Applying the methodology of publication a sample video is given below, where are denoted important details.
 
-![video_preview](sources/demo_video.mp4)
+![video_preview](sources/demo_video.mov)
